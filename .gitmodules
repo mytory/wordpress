@@ -1,0 +1,21 @@
+[submodule "wp-content/plugins/mytory-markdown"]
+	path = wp-content/plugins/mytory-markdown
+	url = git@github.com:mytory/mytory-markdown.git
+[submodule "wp-content/plugins/uploadingdownloading-non-latin-filename"]
+	path = wp-content/plugins/uploadingdownloading-non-latin-filename
+	url = git@github.com:mytory/uploadingdownloading-non-latin-filename.git
+[submodule "wp-content/plugins/mytory-admin-attachment"]
+	path = wp-content/plugins/mytory-admin-attachment
+	url = git@github.com:mytory/mytory-admin-attachment.git
+[submodule "wp-content/plugins/tweet-collection"]
+	path = wp-content/plugins/tweet-collection
+	url = git@github.com:mytory/tweet-collection.git
+[submodule "wp-content/plugins/mytory-get-codefile"]
+	path = wp-content/plugins/mytory-get-codefile
+	url = git@github.com:mytory/mytory-get-codefile
+[submodule "wp-content/plugins/mytory-code-view"]
+	path = wp-content/plugins/mytory-code-view
+	url = git@github.com:mytory/mytory-code-view.git
+[submodule "wp-content/plugins/mytory-original-img-link"]
+	path = wp-content/plugins/mytory-original-img-link
+	url = git@github.com:mytory/mytory-original-img-link.git
